@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://discounted-evidence-finest-article.trycloudflare.com/vnc.html
+URL       : https://his-disk-enter-tag.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-11 10:53:45
+Created   : 2026-06-11 13:09:23
 =======================================================
