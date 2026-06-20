@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lawrence-reductions-medical-ages.trycloudflare.com/vnc.html
+URL       : https://categories-node-criteria-eat.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-19 20:30:06
+Created   : 2026-06-20 20:09:47
 =======================================================
