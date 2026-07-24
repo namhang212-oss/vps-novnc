@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://photos-described-sir-convicted.trycloudflare.com/vnc.html
+URL       : https://fancy-oliver-testing-accessory.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-23 21:14:56
+Created   : 2026-07-24 03:26:57
 =======================================================
