@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://heading-charts-nice-costs.trycloudflare.com/vnc.html
+URL       : https://rates-steady-temperatures-arm.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-02 14:18:00
+Created   : 2026-09-02 18:33:18
 =======================================================
