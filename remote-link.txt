@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://border-affiliate-cycles-strategic.trycloudflare.com/vnc.html
+URL       : https://shipment-showing-entered-continuous.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 17:36:53
+Created   : 2026-09-06 22:05:17
 =======================================================
