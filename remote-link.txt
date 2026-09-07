@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://diving-ascii-manuals-families.trycloudflare.com/vnc.html
+URL       : https://returned-academy-work-diameter.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-07 19:06:47
+Created   : 2026-09-07 22:45:17
 =======================================================
